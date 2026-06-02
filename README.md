@@ -1,1 +1,1 @@
-# learining_go
+# Hello everyone! This repository contains all my practice codes written while learning Go. Anyone interested is welcome to connect and learn together.
